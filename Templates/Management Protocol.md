@@ -2,18 +2,18 @@
 <sup>According to § 9 Constitution of unyt.org demokratische freie Netzwerktechnologien e.V.</sup>
 ## Information
 
-##### Timing
-<sup>No constitutional resolutions can be issued before or after the session.</sup>
-**Session Begin**: {{time}}
+### Timing
+<sup>No constitutional resolutions can be issued before or after the session.</sup>  
+**Session Begin**: {{time}}  
 **Session End**: (Time)
-##### Attendance
+### Attendance
 <sup>Resolutions require an ordinary majority, unless stated otherwise in the constitution.</sup>
 
 | With Voting Rights | Without Voting Rights |
 | ------------------ | --------------------- |
 |                    |                       |
-##### Responsibilities
-**Minute Taking**: Adrian Siebing
+### Responsibilities
+**Minute Taking**: Adrian Siebing  
 **Session Director**: Jonas Strehle
 
 ---
