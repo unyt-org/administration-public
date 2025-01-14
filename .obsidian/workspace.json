@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d3e9399ff39fd68b",
+        "id": "2e65359c8193255d",
         "type": "tabs",
         "children": [
           {
-            "id": "b94451cb9fb231aa",
+            "id": "4cd8aee883822828",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Management Protocol.md",
+                "file": "Protocols/2025-01-07.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Management Protocol"
+              "title": "2025-01-07"
             }
           }
         ]
@@ -138,7 +138,7 @@
               "type": "outline",
               "state": {},
               "icon": "lucide-list",
-              "title": "Gliederung"
+              "title": "Outline"
             }
           },
           {
@@ -156,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 338.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,15 +169,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b94451cb9fb231aa",
+  "active": "a9a3b8dc006a1722",
   "lastOpenFiles": [
-    "Templates/Management Resolution Vote.md",
+    "Documents/General Assemblies/2024/Zukunft_des_unyt.org.pdf",
+    "Documents/General Assemblies/2024/Future_of_unyt.org.translated.pdf",
+    "Documents/General Assemblies/2024/Future_of_unyt.org.pdf",
+    "Documents/General Assemblies/2024/Treasurers Report 2024.translated.pdf",
+    "Documents/General Assemblies/2024/Treasurers Report 2024.en.pdf",
+    "Documents/General Assemblies/2024/State of the unyt 2025.pdf",
+    "Documents/General Assemblies/2024/lu10392218gh.tmp",
+    "Documents/General Assemblies/2024/Kassenbericht unyt 2024.pdf",
+    "Documents/General Assemblies/2024/State of the unyt 2025.odp",
+    "Documents/General Assemblies/2024",
+    "Documents/General Assemblies",
+    "Protocols/2025-01-07.md",
     "Protocols/2024-12-03.md",
-    "Protocols/2024-11-23.md",
     "Templates/Management Protocol.md",
-    "Protocols/Test.md",
-    "Templates",
-    "Protocols/Unbenannt",
-    "Protocols"
+    "Templates/Management Resolution Vote.md",
+    "Protocols/2024-11-23.md",
+    "Protocols/Test.md"
   ]
 }
