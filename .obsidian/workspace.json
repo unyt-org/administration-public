@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protocols/2025-01-07.md",
+                "file": "Protocols/2025-02-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-07"
+              "title": "2025-02-04"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -52,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#label",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,9 +137,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Protocols/2025-01-07.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2025-01-07"
             }
           },
           {
@@ -169,8 +172,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a9a3b8dc006a1722",
+  "active": "d4615882c84dc06f",
   "lastOpenFiles": [
+    "Protocols/2025-02-04.md",
+    "Protocols/2025-01-07.md",
     "Documents/General Assemblies/2024/Zukunft_des_unyt.org.pdf",
     "Documents/General Assemblies/2024/Future_of_unyt.org.translated.pdf",
     "Documents/General Assemblies/2024/Future_of_unyt.org.pdf",
@@ -181,8 +186,6 @@
     "Documents/General Assemblies/2024/Kassenbericht unyt 2024.pdf",
     "Documents/General Assemblies/2024/State of the unyt 2025.odp",
     "Documents/General Assemblies/2024",
-    "Documents/General Assemblies",
-    "Protocols/2025-01-07.md",
     "Protocols/2024-12-03.md",
     "Templates/Management Protocol.md",
     "Templates/Management Resolution Vote.md",
