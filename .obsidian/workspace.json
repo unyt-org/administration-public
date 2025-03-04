@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protocols/2025-02-04.md",
+                "file": "Protocols/2025-03-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-04"
+              "title": "2025-03-04"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#label",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,10 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Protocols/2025-01-07.md"
+                "file": "Protocols/2025-02-04.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-01-07"
+              "title": "Outline of 2025-02-04"
             }
           },
           {
@@ -172,10 +175,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d4615882c84dc06f",
+  "active": "4cd8aee883822828",
   "lastOpenFiles": [
     "Protocols/2025-02-04.md",
+    "Protocols/2025-03-04.md",
     "Protocols/2025-01-07.md",
+    "Documents/General Assemblies/2024/Future of unyt.pdf",
     "Documents/General Assemblies/2024/Zukunft_des_unyt.org.pdf",
     "Documents/General Assemblies/2024/Future_of_unyt.org.translated.pdf",
     "Documents/General Assemblies/2024/Future_of_unyt.org.pdf",
@@ -185,7 +190,6 @@
     "Documents/General Assemblies/2024/lu10392218gh.tmp",
     "Documents/General Assemblies/2024/Kassenbericht unyt 2024.pdf",
     "Documents/General Assemblies/2024/State of the unyt 2025.odp",
-    "Documents/General Assemblies/2024",
     "Protocols/2024-12-03.md",
     "Templates/Management Protocol.md",
     "Templates/Management Resolution Vote.md",
