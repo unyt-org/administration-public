@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protocols/2025-07-08.md",
+                "file": "Protocols/2025-09-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-08"
+              "title": "2025-09-02"
             }
           }
         ]
@@ -71,7 +71,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Lesezeichen"
+              "title": "Bookmarks"
             }
           }
         ]
@@ -166,6 +166,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -177,21 +178,22 @@
   },
   "active": "db1a5dc42a94b55e",
   "lastOpenFiles": [
-    "Protocols/2025-05-13.md",
-    "Protocols/2025-06-10.md",
     "Protocols/2025-07-08.md",
+    "Protocols/2025-09-02.md",
+    "Protocols/2025-06-10.md",
+    "Templates/Management Protocol.md",
+    "Documents/General Assemblies/2024/Treasurers Report 2024.translated.pdf",
+    "Documents/General Assemblies/2024/Future of unyt.pdf",
+    "Protocols/2025-05-13.md",
     "Protocols/2025-04-01.md",
     "Protocols/2025-03-04.md",
     "Protocols/2025-05-13 1.md",
-    "Templates/Management Protocol.md",
     "Protocols/2025-02-04.md",
     "Protocols/2025-01-07.md",
     "Protocols/2025-03-07.md",
-    "Documents/General Assemblies/2024/Future of unyt.pdf",
     "Documents/General Assemblies/2024/Zukunft_des_unyt.org.pdf",
     "Documents/General Assemblies/2024/Future_of_unyt.org.translated.pdf",
     "Documents/General Assemblies/2024/Future_of_unyt.org.pdf",
-    "Documents/General Assemblies/2024/Treasurers Report 2024.translated.pdf",
     "Documents/General Assemblies/2024/Treasurers Report 2024.en.pdf",
     "Documents/General Assemblies/2024/State of the unyt 2025.pdf",
     "Documents/General Assemblies/2024/lu10392218gh.tmp",
