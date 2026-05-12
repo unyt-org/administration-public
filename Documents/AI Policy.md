@@ -2,7 +2,7 @@
 
 ## Preamble
 
-Dieses Dokument beschreibt unyt.org's Umgang mit Technologien der Künstlichen Intelligenz im Innen- und Außenverhältnis. Es gilt als verbindliches Regelwerk für alle Beiträge, Projekte und Produkte, die durch Mitglieder, Kontributoren und weitere im Zusammenhang mit dem unyt.org e.V. stehende Personen verantwortet werden.
+Dieses Dokument beschreibt den Umgang des unyt.org demokratische freie Netzwerktechnologien e.V. mit Technologien der Künstlichen Intelligenz im Zusammenhang mit der Entwicklung technischer Produkte und Dienste. Es gilt als verbindliches Regelwerk für alle technischen Beiträge, Projekte und Produkte, die durch Mitglieder, Kontributoren und weitere im Zusammenhang mit dem unyt.org e.V. stehende Personen verantwortet werden.
 
 "Künstliche Intelligenz" wird hier bewusst in einem weiten Sinn verstanden als ein Begriff, in dem sich technische, gesellschaftliche und normative Bedeutungen überlagern. Im Informatikbereich prägen derzeit insbesondere generative KI und große Sprachmodelle (LLMs) Entscheidungs- und Entwicklungsprozesse sowie administrative Abläufe in neuer Qualität. Diese Entwicklungen stehen im Fokus des folgenden Regelwerks.
 
@@ -31,7 +31,9 @@ Die Nutzung generativer KI-Technologien ist zu folgenden Zwecken erlaubt und unt
 
 ## § 4
 
-(1) Die Nutzung generativer KI-Technologien muss gekennzeichnet werden. Die Kennzeichnung muss so nah wie möglich an der betroffenen Stelle vorgenommen werden.
+(1a) Die Nutzung generativer KI-Technologien muss gekennzeichnet werden. Die Kennzeichnung muss so nah wie möglich an der betroffenen Stelle vorgenommen werden.
+
+(1b) Eine Ausnahme von dieser Regel bildet die prädiktive Generierung von minimalen unmittelbar überprüfbaren Code-Teilen, d.h. "Tab Completion" und vergleichbare Funktionen.  
 
 (2) Kennzeichnungen ganzer Beitrags-Bereiche oder Beitrags-Sammlungen, beispielsweise Commits und Dateien, sind durch § 2 begründet unzulässig.
 
