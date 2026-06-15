@@ -1,6 +1,6 @@
 # The unyt.org Artificial Intelligence Policy – First Edition
 
-## Preamble
+## Präambel
 
 Dieses Dokument beschreibt den Umgang des unyt.org demokratische freie Netzwerktechnologien e.V. mit Technologien der Künstlichen Intelligenz im Zusammenhang mit der Entwicklung technischer Produkte und Dienste. Es gilt als verbindliches Regelwerk für alle technischen Beiträge, Projekte und Produkte, die durch Mitglieder, Kontributoren und weitere im Zusammenhang mit dem unyt.org e.V. stehende Personen verantwortet werden.
 
